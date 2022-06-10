@@ -1,0 +1,17 @@
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+.header{
+    background-color: rgba(46, 8, 46, 0.658);
+    /* margin-bottom:50px; */
+}
+span{
+    /* background-color: gray; */
+    /* color: gray; */
+    border-radius: 3px;
+    padding:4px 20px 0 5px;
+}
